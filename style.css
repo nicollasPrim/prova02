@@ -1,0 +1,64 @@
+body{
+    background-color: antiquewhite;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 12px;
+    height: 240vh;
+}
+
+html{
+    background-color: rgb(151, 135, 90);
+    border-radius: 12px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+header{
+    height: 75px;
+    background-color: rgb(151, 135, 90);
+    display: flex;
+    text-align: center;
+}
+
+.cab{
+    margin-top: 8px;
+    margin-left: 160px;
+    transition: 0.4s;
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cab:hover{
+    font-size: 25px;
+    color: rgb(255, 219, 171);
+}
+
+a:visited{
+    color: white;
+}
+
+.tex, .titulo1, .titulo2{
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.link:visited{
+    color: black;
+}
+
+.link{
+    color: black;
+}
+
+.imag{
+    border-radius: 5px;
+    height: 450px;
+    margin-bottom: -35px;
+    margin-top: 25px;
+}
